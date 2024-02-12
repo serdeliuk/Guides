@@ -6,5 +6,5 @@ All the guides presented here are provided AS IS and some may brick your device 
 
 ## Andoid guides:
 
-   - [Root Android Device with heimdall and magisk](https://github.com/serdeliuk/ANdroid-Guides/getroot.md)
+   - [Root Android Device with heimdall and magisk](https://github.com/serdeliuk/Android-Guides/getroot.md)
 
