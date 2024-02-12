@@ -2,7 +2,7 @@
 
 ## ⚠️ !!! Warning !!!
 
-All the guides presented here are provided AS IS and some may brick your device if not done properly, I am not responsible for any device losing their guarantee and/or any bricked devices!!!
+All the guides presented here are provided AS IS and some may brick your device if not done properly, I am not responsible for any device losing data, their guarantee and/or any bricked devices!!!
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/serdeliuk) any donation is highly appreciated!
 
